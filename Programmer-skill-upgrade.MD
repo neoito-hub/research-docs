@@ -77,9 +77,7 @@ If you complete all the above steps, This is the first checkpoint i think in you
 | ES6 youtube               |       NewBoston            |
 | Exercism                  |       exercism.io          |
 
-#### Exercism
-This platform will helps to level up the programming skills.
-Steps to do...
+
 #### Exercism
 This platform will helps to level up the programming skills.
 Steps to do...
